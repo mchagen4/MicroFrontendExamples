@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Angular.Elements", "Example.Angular.Elements\Example.Angular.Elements.csproj", "{36FC24BB-507C-447A-BA87-84DC42B4167A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.React.Host", "Example.React.Host\Example.React.Host.csproj", "{37C86329-E476-4E76-9BBE-40E9BA2C326D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.React.WebComponent", "Example.React.WebComponent\Example.React.WebComponent.csproj", "{A768CA98-A941-4F31-A0BB-45D049DC8DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FC24BB-507C-447A-BA87-84DC42B4167A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FC24BB-507C-447A-BA87-84DC42B4167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FC24BB-507C-447A-BA87-84DC42B4167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FC24BB-507C-447A-BA87-84DC42B4167A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C86329-E476-4E76-9BBE-40E9BA2C326D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C86329-E476-4E76-9BBE-40E9BA2C326D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C86329-E476-4E76-9BBE-40E9BA2C326D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C86329-E476-4E76-9BBE-40E9BA2C326D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A768CA98-A941-4F31-A0BB-45D049DC8DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A768CA98-A941-4F31-A0BB-45D049DC8DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A768CA98-A941-4F31-A0BB-45D049DC8DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A768CA98-A941-4F31-A0BB-45D049DC8DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
